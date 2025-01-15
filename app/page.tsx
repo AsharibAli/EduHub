@@ -108,8 +108,8 @@ export default function Home() {
           <span className="block text-teal-500">Apps On-chain</span>
         </h1>
         <p className="text-xl md:text-2xl text-center mb-16 text-gray-400 max-w-3xl">
-          Building developer tools and infrastructure on EduChain, so that you
-          can quickly ship your awesome educational dApps on-chain.
+          Building community and developer tools for EDU Chain, so that anyone
+          can quickly learn and ship awesome educational or any type of dApps on-chain.
         </p>
         <div className="flex flex-col sm:flex-row space-y-4 sm:space-y-0 sm:space-x-6 mb-20">
           <Link
@@ -214,7 +214,7 @@ export default function Home() {
             className="bg-teal-500 hover:bg-teal-600 text-black font-semibold px-10 py-6 text-lg"
           >
             <BookOpen className="mr-3 h-6 w-6" />
-            1x Hackathon Winner
+            1st Place Hackathon Winner
           </Button>
         </Link>
       </main>
@@ -222,8 +222,8 @@ export default function Home() {
       {/* Footer */}
       <footer className="absolute py-6 bottom-0 left-0 right-0 bg-black/80 backdrop-blur-sm">
         <div className="container mx-auto px-6 text-center">
-          <div className="text-gray-400 text-lg">
-            © 2024 EduHub.{" "}
+            <div className="text-gray-400 text-lg">
+            © {new Date().getFullYear()} EduHub.{" "}
             <a
               href="#"
               target="_blank"
