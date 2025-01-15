@@ -113,7 +113,7 @@ export default function Home() {
         </p>
         <div className="flex flex-col sm:flex-row space-y-4 sm:space-y-0 sm:space-x-6 mb-20">
           <Link
-            href="https://ai.eduhub.dev/"
+            href="https://demo.ced.asharib.xyz/"
             passHref
             target="_blank"
             rel="noopener noreferrer"
@@ -122,7 +122,7 @@ export default function Home() {
               size="lg"
               className="bg-teal-500 hover:bg-teal-600 text-black font-semibold px-10 py-6 text-lg"
             >
-              Try EduGPT
+              Launch App
             </Button>
           </Link>
           <Link
