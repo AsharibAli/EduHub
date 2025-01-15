@@ -28,14 +28,14 @@ export default function Home() {
     {
       title: "EduGPT",
       description:
-        "The First AI Blockchain Explorer for EduChain Ecosystem and the Smart Assistant that helps you to learn and build your dApps on EduChain.",
+        "The First AI Blockchain Explorer for EduChain Ecosystem.",
       buttonText: "Start Chatting",
       link: "https://ai.eduhub.dev/",
     },
     {
       title: "EduKit",
       description:
-        "A starter-kit featuring React & NextJS and Vue & NuxtJS with Hardhat, Foundry & OCID for Building dApps on EduChain.",
+        "A starter-kit with many libraries and frameworks support for Building dApps on EduChain.",
       buttonText: "Start Building",
       link: "https://kit.eduhub.dev/",
     },
