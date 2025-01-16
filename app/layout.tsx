@@ -6,8 +6,8 @@ import Script from "next/script";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "EduHub | Developer Tooling/Infrastructure for EduChain",
-  description: "Building tools and infrastructure for the EduChain ecosystem.",
+  title: "EduHub | Community & Developer Tooling for EduChain",
+  description: "EduHub provides developer tools and community resources for the EDU Chain ecosystem.",
 };
 
 export default function RootLayout({
