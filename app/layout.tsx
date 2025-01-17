@@ -2,12 +2,15 @@ import type { Metadata } from "next";
 import { Inter } from "next/font/google";
 import "./globals.css";
 import Script from "next/script";
+import Banner from "@/components/Banner";
+import { BannerProvider } from "@/components/BannerContext";
 
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: "EduHub | Community & Developer Tooling for EduChain",
-  description: "EduHub provides developer tools and community resources for the EDU Chain ecosystem.",
+  description:
+    "EduHub provides developer tools and community resources for the EDU Chain ecosystem.",
 };
 
 export default function RootLayout({
@@ -30,7 +33,12 @@ export default function RootLayout({
   gtag('config', 'G-6H2T0YGD4E');
   `}
       </Script>
-      <body className={inter.className}>{children}</body>
+      <body className={inter.className}>
+        <BannerProvider>
+          <Banner />
+          {children}
+        </BannerProvider>
+      </body>
     </html>
   );
 }
