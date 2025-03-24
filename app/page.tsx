@@ -28,7 +28,7 @@ export default function Home() {
     {
       title: "EduGPT",
       description:
-        "The First AI Blockchain Explorer for EduChain Ecosystem.",
+        "The First AI-Powered Blockchain Explorer for EduChain, Analyze transactions, tokens, and more.",
       buttonText: "Start Chatting",
       link: "https://ai.eduhub.dev/",
     },
@@ -104,16 +104,17 @@ export default function Home() {
       {/* Main content */}
       <main className="container mx-auto px-6 py-20 flex flex-col items-center relative z-10">
         <h1 className="text-6xl md:text-8xl font-bold text-center mb-6 tracking-tight">
-          Build Education
-          <span className="block text-teal-500">Apps On-chain</span>
+          Learn. Create. Innovate.
+          <span className="block text-teal-500">On EduChain</span>
         </h1>
         <p className="text-xl md:text-2xl text-center mb-16 text-gray-400 max-w-3xl">
-          Building community and developer tools for EDU Chain, so that anyone
-          can quickly learn and ship awesome educational or any type of dApps on-chain.
+          EduHub enables the community with dynamic tools to learn, create, and
+          explore exciting possibilities, while helping developers seamlessly
+          build innovative dApps on the EDU Chain.
         </p>
         <div className="flex flex-col sm:flex-row space-y-4 sm:space-y-0 sm:space-x-6 mb-20">
           <Link
-            href="https://demo.ced.asharib.xyz/"
+            href="https://app.eduhub.dev/"
             passHref
             target="_blank"
             rel="noopener noreferrer"
@@ -188,41 +189,45 @@ export default function Home() {
         {/* Backed by section */}
         <div className="w-full max-w-4xl mb-20">
           <div className="text-center mb-8 text-teal-500 font-semibold text-xl">
-            BACKED BY
+            ACHIEVEMENTS
           </div>
+          <div className="flex flex-row justify-center items-center space-x-12 mb-10">
+            <div className="text-center">
+              <div className="text-gray-200 font-bold text-4xl mb-2">
+                20+ Million
+              </div>
+              <div className="text-gray-400 text-xl">
+                Transactions on Testnet
+              </div>
+            </div>
+            <div className="text-center">
+              <div className="text-gray-200 font-bold text-4xl mb-2">
+                10+ Million
+              </div>
+              <div className="text-gray-400 text-xl">
+                Transactions on Mainnet
+              </div>
+            </div>
+          </div>
+
           <div className="text-center">
             <a
               href="https://oci.opencampus.xyz/"
               target="_blank"
               rel="noopener noreferrer"
-              className="text-gray-400 font-semibold text-4xl hover:text-teal-500 transition-colors"
             >
-              Open Campus Incubator
+              <p className="text-gray-400 font-semibold text-2xl hover:text-teal-500 transition-colors">
+                From Hackathon Winner to Backed by OC Incubar
+              </p>
             </a>
           </div>
         </div>
-
-        {/* Learn more button */}
-        <Link
-          href="https://dorahacks.io/buidl/14599"
-          passHref
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <Button
-            size="lg"
-            className="bg-teal-500 hover:bg-teal-600 text-black font-semibold px-10 py-6 text-lg"
-          >
-            <BookOpen className="mr-3 h-6 w-6" />
-            1st Place Hackathon Winner
-          </Button>
-        </Link>
       </main>
 
       {/* Footer */}
       <footer className="absolute py-6 bottom-0 left-0 right-0 bg-black/80 backdrop-blur-sm">
         <div className="container mx-auto px-6 text-center">
-            <div className="text-gray-400 text-lg">
+          <div className="text-gray-400 text-lg">
             © {new Date().getFullYear()} EduHub.{" "}
             <a
               href="#"
