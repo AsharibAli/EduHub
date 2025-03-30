@@ -15,9 +15,9 @@ import { cn } from "@/lib/utils";
 import { useBanner } from "./BannerContext";
 
 const BANNER_CONFIG = {
-  title: "Eid Mubarak from EduHub",
+  title: "➡️ Eid Mubarak - 100k Yuzu Giveaway 🍊",
   description:
-    "We're giving away 100k Yuzu to our community! Wishing you a wonderful day full of delicious food and amazing vibes 🍊",
+    "We're giving away 100k Yuzu to our community! Wishing you a wonderful day full of delicious food and amazing vibes.",
   buttons: {
     primary: {
       text: "Participate Here",
