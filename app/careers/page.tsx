@@ -25,7 +25,7 @@ export default function Careers() {
             Join Our Team
           </h1>
           <p className="text-xl text-gray-300 max-w-2xl mx-auto">
-            Help us build the future of education on the blockchain
+            Help us build the future of education on the EduChain
           </p>
         </div>
 
