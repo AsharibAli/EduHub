@@ -23,19 +23,20 @@ export function Impact() {
         </div>
         <div className="bg-black/30 backdrop-blur-sm rounded-lg p-6 border border-teal-500/20 hover:border-teal-500/50 transition-all duration-300 transform hover:scale-105">
           <div className="text-gray-200 font-bold text-4xl mb-3 flex items-center justify-center">
-            <span className="text-teal-400">1k+</span>
+            <span className="text-teal-400">2k+</span>
           </div>
           <div className="text-gray-300 text-lg text-center">Npm Downloads</div>
         </div>
       </div>
 
-      <div className="text-center">
+      <div className="text-center mt-20">
         <a
           href="https://oci.opencampus.xyz/"
           target="_blank"
           rel="noopener noreferrer"
+          className="inline-block px-8 py-3 rounded-full bg-black/30 backdrop-blur-sm border border-teal-500/20 hover:border-teal-500/50 transition-all duration-300 transform hover:scale-105"
         >
-          <p className="text-gray-400 font-semibold text-2xl hover:text-teal-500 transition-colors">
+          <p className="text-gray-300 font-semibold text-lg hover:text-teal-400 transition-colors">
             From Hackathon Winner to Backed by OC Incubar
           </p>
         </a>

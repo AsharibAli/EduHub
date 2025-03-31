@@ -1,9 +1,19 @@
 import Link from "next/link";
+import Image from "next/image";
 
 export function Header() {
   return (
     <header className="container mx-auto px-6 py-8 flex justify-between items-center relative z-10">
-      <div className="text-3xl font-bold text-teal-500">EduHub</div>
+      <Link href="/" className="flex items-center gap-2">
+        <Image
+          src="/eduhub-transparent.png"
+          alt="EduHub Logo"
+          width={40}
+          height={40}
+          className="w-10 h-10"
+        />
+        <div className="text-3xl font-bold ">EduHub</div>
+      </Link>
       <div className="flex space-x-6">
         <Link
           href="https://x.com/eduhub__"
