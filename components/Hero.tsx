@@ -10,9 +10,9 @@ export function Hero() {
         <span className="block text-teal-500">On EduChain</span>
       </h1>
       <p className="text-xl md:text-2xl text-center mb-16 text-gray-400 max-w-3xl">
-        EduHub enables the community with dynamic tools to learn, create, and
-        explore exciting possibilities, while helping developers seamlessly
-        build innovative dApps on the EDU Chain.
+        EduHub helps the community with dynamic tools to learn, create, and
+        explore, while helping developers to seamlessly build innovative dApps on
+        the EDU Chain.
       </p>
       <div className="flex flex-col sm:flex-row space-y-4 sm:space-y-0 sm:space-x-6">
         <Link
