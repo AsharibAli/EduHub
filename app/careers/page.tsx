@@ -32,7 +32,7 @@ export default function Careers() {
         {/* Project Overview */}
         <section className="w-full max-w-5xl mx-auto mb-16 p-8 rounded-2xl bg-gray-900/40 backdrop-blur-sm border border-teal-900/50">
           <h2 className="text-3xl font-bold mb-6 bg-clip-text text-transparent bg-gradient-to-r from-teal-400 to-teal-200">
-            About EduHub
+            ⚡ About EduHub
           </h2>
           <div className="text-lg text-gray-300">
             <p className="mb-4">
