@@ -59,7 +59,7 @@ export default function Careers() {
 
             <div className="mb-8">
               <h3 className="text-2xl font-semibold mb-4 text-teal-300">
-                🎯 Why we need just 2:
+                Why we need just 2:
               </h3>
               <p className="text-gray-300 mb-4">
                 We don&#39;t want a bloated dev team—we want two highly
@@ -69,7 +69,6 @@ export default function Careers() {
                 <li>Can build full products from scratch</li>
                 <li>Own systems end-to-end (backend, frontend, infra)</li>
                 <li>Love iterating with early users and shipping fast</li>
-                <li>Want equity and skin in the game</li>
               </ul>
               <p className="text-gray-300 mt-4 italic border-l-4 border-teal-500 pl-4 py-2">
                 Small team = faster decisions, tighter collaboration, and
@@ -79,7 +78,7 @@ export default function Careers() {
 
             <div className="mb-8">
               <h3 className="text-2xl font-semibold mb-4 text-teal-300">
-                🛠️ Responsibilities
+                Responsibilities
               </h3>
               <ul className="list-disc pl-6 text-gray-300 space-y-2">
                 <li>Architect and build core EduHub tools</li>
@@ -90,7 +89,7 @@ export default function Careers() {
 
             <div className="mb-8">
               <h3 className="text-2xl font-semibold mb-4 text-teal-300">
-                🎓 Experience
+                Experience
               </h3>
               <ul className="list-disc pl-6 text-gray-300 space-y-2">
                 <li>2–5+ years as full-stack dev, backend, or Web3 engineer</li>
@@ -105,7 +104,7 @@ export default function Careers() {
 
             <div>
               <h3 className="text-2xl font-semibold mb-4 text-teal-300">
-                💸 Compensation
+                Compensation
               </h3>
               <ul className="list-disc pl-6 text-gray-300 space-y-2">
                 <li>
@@ -127,7 +126,7 @@ export default function Careers() {
 
             <div className="mb-8">
               <h3 className="text-2xl font-semibold mb-4 text-teal-300">
-                🎯 Why just 1:
+                Why just 1:
               </h3>
               <p className="text-gray-300 mb-4">
                 We want someone who{" "}
@@ -147,7 +146,7 @@ export default function Careers() {
 
             <div className="mb-8">
               <h3 className="text-2xl font-semibold mb-4 text-teal-300">
-                📝 Responsibilities
+                Responsibilities
               </h3>
               <ul className="list-disc pl-6 text-gray-300 space-y-2">
                 <li>Engage builders, creators & learners</li>
@@ -160,7 +159,7 @@ export default function Careers() {
 
             <div className="mb-8">
               <h3 className="text-2xl font-semibold mb-4 text-teal-300">
-                🎓 Experience
+                Experience
               </h3>
               <ul className="list-disc pl-6 text-gray-300 space-y-2">
                 <li>Passion for tech, learning, and community culture</li>
@@ -174,7 +173,7 @@ export default function Careers() {
 
             <div>
               <h3 className="text-2xl font-semibold mb-4 text-teal-300">
-                💸 Compensation
+                Compensation
               </h3>
               <ul className="list-disc pl-6 text-gray-300 space-y-2">
                 <li>
@@ -230,7 +229,7 @@ export default function Careers() {
           {/* How to Apply */}
           <section className="p-8 rounded-2xl bg-gray-900/40 backdrop-blur-sm border border-teal-900/50">
             <h2 className="text-3xl font-bold mb-6 bg-clip-text text-transparent bg-gradient-to-r from-teal-400 to-teal-200">
-              How to Apply?
+              👏 How to Apply?
             </h2>
             <p className="mb-4 text-xl">
               Send an email to{" "}
