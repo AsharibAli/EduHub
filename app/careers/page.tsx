@@ -36,7 +36,7 @@ export default function Careers() {
           </h2>
           <div className="text-lg text-gray-300">
             <p className="mb-4">
-              <strong>EduHub</strong> is building community and developer tools
+              <strong>EduHub</strong> is building  <strong>vibe</strong> community and developer tools
               for <strong>EduChain</strong>— a cutting-edge L3 blockchain
               focused on education.
             </p>

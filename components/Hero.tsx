@@ -6,13 +6,13 @@ export function Hero() {
   return (
     <div className="flex flex-col items-center mb-20">
       <h1 className="text-6xl md:text-8xl font-bold text-center mb-6 tracking-tight">
-        Learn. Create. Innovate.
-        <span className="block text-teal-500">On EduChain</span>
+        Building Vibe Tooling
+        <span className="block text-teal-500">for EduChain</span>
       </h1>
       <p className="text-xl md:text-2xl text-center mb-16 text-gray-400 max-w-3xl">
         EduHub helps the community with dynamic tools to learn, create, and
-        explore, while helping developers to seamlessly build innovative dApps on
-        the EDU Chain.
+        explore, while helping developers to seamlessly build innovative dApps
+        on the EDU Chain.
       </p>
       <div className="flex flex-col sm:flex-row space-y-4 sm:space-y-0 sm:space-x-6">
         <Link
