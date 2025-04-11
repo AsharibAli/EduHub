@@ -23,7 +23,7 @@ export default function Privacy() {
               At EduHub, we are committed to protecting your privacy. This
               privacy policy outlines how we collect, use, and safeguard your
               personal information when you use our platform and services
-              including EduGPT, EduKit, and EduBox.
+              including EduAgent, EduKit, and EduBox.
             </p>
           </div>
           <div className="space-y-12">
@@ -34,7 +34,7 @@ export default function Privacy() {
               <p className="mt-4 text-gray-300">
                 We collect certain personal information when you use our
                 services, including but not limited to your name, email address,
-                wallet addresses, and interaction data with our tools (EduGPT,
+                wallet addresses, and interaction data with our tools (EduAgent,
                 EduKit, and EduBox). We also collect technical information about
                 how you use our platform and blockchain interaction data.
               </p>
@@ -43,10 +43,10 @@ export default function Privacy() {
               <h3 className="text-2xl font-bold text-teal-300">Data Usage</h3>
               <p className="mt-4 text-gray-300">
                 We use your information to provide and improve our services,
-                including EduGPT&apos;s AI blockchain exploration capabilities,
-                EduKit&apos;s development tools, and EduBox&apos;s no-code
-                deployment features. This data helps us enhance user experience,
-                provide technical support, and develop new features.{" "}
+                including EduAgent&apos;s AI blockchain exploration
+                capabilities, EduKit&apos;s development tools, and EduBox&apos;s
+                no-code deployment features. This data helps us enhance user
+                experience, provide technical support, and develop new features.{" "}
                 <strong>
                   While we strive to provide accurate and reliable tools for the
                   EDU Chain ecosystem, you are responsible for your own actions
@@ -110,8 +110,8 @@ export default function Privacy() {
               <h3 className="text-2xl font-bold text-teal-300">Contact Us</h3>
               <p className="mt-4 text-gray-300">
                 If you have questions about this privacy policy or our data
-                practices related to EduGPT, EduKit, EduBox, or any other EduHub
-                services, please{" "}
+                practices related to EduAgent, EduKit, EduBox, or any other
+                EduHub services, please{" "}
                 <a
                   href="https://t.me/eduhub_tg"
                   target="_blank"

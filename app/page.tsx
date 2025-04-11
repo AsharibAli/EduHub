@@ -16,9 +16,9 @@ export default function Home() {
   // Feature card data
   const featureCards: FeatureCard[] = [
     {
-      title: "EduGPT",
+      title: "EduAgent",
       description:
-        "The First AI-Powered Blockchain Explorer for EduChain, Analyze transactions, tokens, and more.",
+        "The First AI Agent for EduChain | Send, Swap, Bridge, Balance, Convert, Analyze & More",
       buttonText: "Start Chatting",
       link: "https://ai.eduhub.dev/",
     },

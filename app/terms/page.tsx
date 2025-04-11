@@ -29,10 +29,10 @@ export default function Terms() {
               <h3 className="text-2xl font-bold text-teal-300">Introduction</h3>
               <p className="mt-4 text-gray-300">
                 EduHub provides developer tools and community resources for the
-                EDU Chain ecosystem. Our platform includes EduGPT (AI Blockchain
-                Explorer), EduKit (dApp Development Starter Kit), and EduBox
-                (No-Code Token/NFT Deployment Tool). These Terms of Service
-                outline the rules and regulations for using our platform.
+                EDU Chain ecosystem. Our platform includes EduAgent (AI Agent),
+                EduKit (dApp Development Starter Kit), and EduBox (No-Code
+                Token/NFT Deployment Tool). These Terms of Service outline the
+                rules and regulations for using our platform.
               </p>
             </div>
             <div className="p-8 rounded-2xl bg-gray-900/40 backdrop-blur-sm border border-teal-900/50">
@@ -54,7 +54,7 @@ export default function Terms() {
                 Service Usage
               </h3>
               <p className="mt-4 text-gray-300">
-                Our services (EduGPT, EduKit, and EduBox) are provided as
+                Our services (EduAgent, EduKit, and EduBox) are provided as
                 development and educational tools. You agree to use these
                 services responsibly and in compliance with EDU Chain&apos;s
                 protocols and standards. While EduBox simplifies deployment
@@ -65,8 +65,8 @@ export default function Terms() {
             <div className="p-8 rounded-2xl bg-gray-900/40 backdrop-blur-sm border border-teal-900/50">
               <h3 className="text-2xl font-bold text-teal-300">Data Privacy</h3>
               <p className="mt-4 text-gray-300">
-                We take the privacy of your data seriously. When using EduGPT or
-                any of our tools, your interaction data may be collected to
+                We take the privacy of your data seriously. When using EduAgent
+                or any of our tools, your interaction data may be collected to
                 improve our services. We will collect and use your personal
                 information in accordance with our{" "}
                 <a
@@ -84,7 +84,7 @@ export default function Terms() {
               </h3>
               <p className="mt-4 text-gray-300">
                 All content and materials on our platform, including
-                EduKit&apos;s libraries, EduGPT&apos;s interface, and
+                EduKit&apos;s libraries, EduAgent&apos;s interface, and
                 EduBox&apos;s tools, are the property of EduHub or our
                 licensors. While we encourage development on EDU Chain, you may
                 not reproduce or distribute our proprietary tools without
@@ -110,7 +110,7 @@ export default function Terms() {
               <p className="mt-4 text-gray-300">
                 EduHub reserves the right to modify these terms at any time. We
                 will notify users of any significant changes to our services or
-                terms. Your continued use of EduGPT, EduKit, or EduBox after
+                terms. Your continued use of EduAgent, EduKit, or EduBox after
                 such changes constitutes acceptance of the new terms.
               </p>
             </div>
