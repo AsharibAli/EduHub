@@ -16,7 +16,7 @@ export function Hero() {
       </p>
       <div className="flex flex-col sm:flex-row space-y-4 sm:space-y-0 sm:space-x-6">
         <Link
-          href="https://ai.eduhub.dev/"
+          href="https://app.eduhub.dev/"
           passHref
           target="_blank"
           rel="noopener noreferrer"
