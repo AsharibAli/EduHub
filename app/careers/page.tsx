@@ -252,6 +252,17 @@ export default function Careers() {
               <li>Your best projects or communities</li>
               <li>GitHub, Twitter, or personal site</li>
             </ul>
+
+            {/* Not Hiring Notice */}
+            <div className="mt-8 p-4 rounded-lg bg-orange-900/30 border border-orange-700/50">
+              <p className="text-orange-200 font-medium text-center">
+                <strong>⚠️ Currently Not Hiring</strong>
+              </p>
+              <p className="text-orange-300/80 text-sm mt-2 text-center">
+                We are not actively recruiting at this time and have no open positions. 
+                Please check back later for future opportunities.
+              </p>
+            </div>
           </section>
         </div>
 
