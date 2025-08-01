@@ -5,12 +5,12 @@ import { Button } from "@/components/ui/button";
 export function Hero() {
   return (
     <div className="flex flex-col items-center mb-20">
-      <h1 className="text-6xl md:text-8xl font-bold text-center mb-6 tracking-tight">
-        Building Vibe Tooling
+      <h1 className="text-4xl sm:text-5xl md:text-6xl lg:text-8xl font-bold text-center mb-6 tracking-tight leading-tight">
+        <span className="whitespace-nowrap">Building Vibe Tooling</span>
         <span className="block text-teal-500">for EduChain</span>
       </h1>
       <p className="text-xl md:text-2xl text-center mb-16 text-gray-400 max-w-3xl">
-        Vibe Tooling? Simple tools for community to learn and engage, and
+        Vibe Tooling? simple tools for community to learn and engage, and
         developers to build dApps on EduChain.
       </p>
       <div className="flex flex-col sm:flex-row space-y-4 sm:space-y-0 sm:space-x-6">
