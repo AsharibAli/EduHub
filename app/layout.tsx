@@ -8,9 +8,9 @@ import { BannerProvider } from "@/components/banner/BannerContext";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "EduHub | Vibe Community & Developer Tooling for EduChain",
+  title: "EduHub | Vibe Tooling for EduChain",
   description:
-    "EduHub is building the Vibe community and developer tooling for the EduChain ecosystem.",
+    "EduHub is building the Vibe tooling for community and developers of the EduChain ecosystem.",
 };
 
 export default function RootLayout({
