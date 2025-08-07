@@ -27,7 +27,7 @@ const teamMembers: TeamMember[] = [
     name: "Asharib Ali",
     role: "Founder & CTO",
     description:
-      "Web3 enthusiast with 3+ years experience in blockchain development. Previously build different startups.",
+      "I build AI & Blockchain solutions and teach others to do the same. Currently instructing 1,500+ students (on-site) in Cloud Native + Agentic AI while managing a 30k+ tech community at GIAIC.",
     imageUrl: "/team/asharib.jpeg",
     twitter: "0xAsharib",
     linkedin: "AsharibAli",
@@ -50,7 +50,7 @@ const teamMembers: TeamMember[] = [
     role: "Community Manager",
     description:
       "Community builder with a passion for education and Web3. Previously managed communities with over 50,000 members in the crypto space.",
-    imageUrl: "/team/bubble.jpg",
+    imageUrl: "/team/bubble1.jpg",
     twitter: "bubblefarms",
   },
   {
@@ -169,7 +169,7 @@ export default function Team() {
             ))}
           </div>
 
-          {/* Join the team section */}
+          {/* Join the team section
           <div className="mt-16 p-8 rounded-2xl bg-gray-900/40 backdrop-blur-sm border border-teal-900/50 text-center">
             <h2 className="text-3xl font-bold text-teal-300 mb-4">
               Join Our Team
@@ -185,7 +185,7 @@ export default function Team() {
             >
               View Open Positions
             </Link>
-          </div>
+          </div> */}
         </div>
       </section>
 
