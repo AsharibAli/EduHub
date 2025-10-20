@@ -26,13 +26,13 @@ export function Footer() {
           >
             Team
           </a>
-          <span className="text-gray-600 mx-1">|</span>
+          {/* <span className="text-gray-600 mx-1">|</span>
           <a
             href="/careers"
             className="text-gray-400 hover:text-teal-500 transition-colors text-xs"
           >
             Careers
-          </a>
+          </a> */}
         </div>
       </div>
     </footer>
