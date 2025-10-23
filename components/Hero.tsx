@@ -13,7 +13,7 @@ export function Hero() {
         Vibe Tooling? simple tools for community to learn and engage, and
         developers to build dApps on EduChain.
       </p>
-      <div className="flex flex-col sm:flex-row gap-4 sm:gap-6 w-full max-w-md sm:max-w-none justify-center">
+      <div className="flex flex-col sm:flex-row gap-4 sm:gap-6 w-full justify-center items-center">
         <Link
           href="https://app.eduhub.dev/"
           passHref
